@@ -28,7 +28,7 @@ else{
     console.log("Du får passera")
 }
 
-let höjden = prompt ("Höjden på din bagage=")
+let höjden = prompt ("Höjden på din bagage?")
 
 if (höjden >23){
     console.log("Du får inte passera, max höjd är 23cm")
