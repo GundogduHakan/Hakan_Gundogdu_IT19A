@@ -1,0 +1,21 @@
+header, nav, article, footer {
+    border:1px solid black;
+    text-align:center;
+    background:lightgrey;
+    margin:5px;
+}
+section {
+    display:flex; 
+    margin:0;
+}
+article{
+    flex:3;
+}
+footer{
+
+}
+@media only screen and (max-width: 660px) {
+    section {
+      flex-direction:column;
+    }
+  }
