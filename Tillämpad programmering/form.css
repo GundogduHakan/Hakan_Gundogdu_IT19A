@@ -1,0 +1,28 @@
+body {
+    background-color: orange;
+    text-align: center;
+    padding: 20px;
+
+}
+#header {
+    background-color: lightgray;
+    padding: 20px;
+    margin: 30px;
+    border: solid 1px #2C3539
+}
+#element {
+    background-color: lightgray;
+    padding: 10px;
+}
+ #section {
+     background-color: lightgray;
+     padding: 50px;
+     border: solid 1px #2C3539
+ }
+
+ #footer {
+     background-color: lightgray;
+     padding: 3px;
+     margin: 20px;
+     border: solid 1px #2C3539
+ }
