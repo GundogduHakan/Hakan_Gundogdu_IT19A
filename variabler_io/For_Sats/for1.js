@@ -22,7 +22,7 @@ for(let j=1; j<=100; j++){
 
 
 
-let ämnen = ["Svenska", "Engelska" , "Programmering" , "Matematik" , "Idrott"]
+let ämnen = ["svenska", "engelska" , "programmering" , "matematik" , "idrott"]
 
 // skapa en lista med lektioner
 
